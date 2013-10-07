@@ -1,0 +1,1 @@
+Currently only includes a movable window and a scrolling window.  May expand in the future.
